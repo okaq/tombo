@@ -21,6 +21,10 @@ const sce = {
 	debug() {
 		console.log(sce.d.info);
 		console.log(sce.d.getContext());
+	},
+	patch() {
+		// off screen invader generators
+		sce.b = {};
 	}
 }
 

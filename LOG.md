@@ -6,4 +6,8 @@ Oct 3
 
 nano game init
 
+Oct 12
+
+WFC init (2D exemplars)
+
 
