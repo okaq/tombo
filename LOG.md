@@ -10,4 +10,8 @@ Oct 12
 
 WFC init (2D exemplars)
 
+Oct 13
+
+P5 and Shader repos
+
 
