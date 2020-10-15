@@ -14,4 +14,11 @@ Oct 13
 
 P5 and Shader repos
 
+Oct 15
+
+Stanford Product Management online for okaq.com
+
+WebGL Shader DOM demo
+publish to okaq.github.io 
+
 
