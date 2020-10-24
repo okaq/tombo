@@ -21,4 +21,11 @@ Stanford Product Management online for okaq.com
 WebGL Shader DOM demo
 publish to okaq.github.io 
 
+Oct 24
+
+New micro VMs.
+
+Explore Rust http & proxy
+for hybrid cloud arch
+
 
